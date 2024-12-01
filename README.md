@@ -1,5 +1,5 @@
-# Einkaufsliste
-Eine Einkaufslisten-App, welche die wichtigsten Dinge, die man braucht festhält.
+# Shoppinglist
+An App, which stores the things you really need.
 
 ONLY AVAILIBLE IN GERMAN: IF OTHER LANGUAGES WANTED: OPEN AN ISSUE
 
